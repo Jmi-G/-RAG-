@@ -316,5 +316,8 @@ socket.onmessage = (event) => {
 
 如有问题或建议，请联系：
 
-- 客服电话：12345678
-- 邮箱：contact@example.com
+- 客服电话：xxxxxxx
+- 邮箱：oioigjm0116.com
+
+
+
